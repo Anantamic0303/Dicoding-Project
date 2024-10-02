@@ -1,5 +1,5 @@
 # Setup Environment - Anaconda
- ```bash
-conda create --name main-ds python=3.9
-conda activate main-ds
+```bash
+conda create --dashboard python=3.9
+conda activate dashboard
 pip install -r requirements.txt
